@@ -512,7 +512,7 @@ input:focus::-webkit-input-placeholder {
 }
 
 .month {
-  margin: 8px auto 0px auto;
+  margin: 4px auto 0px auto;
   text-align: center;
   font-size: 24px;
   font-weight: 600;
@@ -521,6 +521,6 @@ input:focus::-webkit-input-placeholder {
 .day {
   margin: 0px auto;
   text-align: center;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
 }
